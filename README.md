@@ -15,8 +15,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=murasolimaran-ai&style=flat-square&color=00BFFF&label=Profile+Views)
-
+![Profile Views](https://komarev.com/ghpvc/?username=murasolimaran-ai&label=Profile%20Views&color=0e75b6&style=for-the-badge)
 </div>
 
 ---
