@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%E2%9C%A8;Machine+Learning+Developer+%F0%9F%A7%A0;Building+AI-Powered+Applications+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%E2%9C%A8;Building+AI-Powered+Applications+%F0%9F%9A%80" />
 
 <br/>
 
@@ -29,7 +29,7 @@ Name       : Murasolimaran E
 Role       : AI Engineer & Full-Stack Developer
 Degree     : B.Tech Information Technology (Final Year)
 Focus      : Generative AI · Machine Learning · Full-Stack Development
-Exploring  : LLMs · RAG · NLP · Modern AI Systems
+Exploring  : LLMs · RAG · Prompt · Modern AI Systems
 Published  : 1 International Research Paper
 Mindset    : Always learning, building, and improving 🌱
 ```
@@ -78,7 +78,6 @@ Mindset    : Always learning, building, and improving 🌱
 ### 🧩 Frameworks & Libraries
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
