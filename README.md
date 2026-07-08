@@ -16,6 +16,8 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=murasolimaran-ai&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
+[![Published Book](https://img.shields.io/badge/📖_Published_Book-Tanglish_Edition-FF9800?style=for-the-badge&logo=bookstack&logoColor=white)](book-website-amber.vercel.app)
 </div>
 
 ---
