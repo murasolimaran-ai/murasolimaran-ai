@@ -25,13 +25,16 @@
 ## ⚡ About Me
 
 ```yaml
-Name       : Murasolimaran E
-Role       : AI Engineer & Full-Stack Developer
-Degree     : B.Tech Information Technology (Final Year)
-Focus      : Generative AI · Machine Learning · Full-Stack Development
-Exploring  : LLMs · RAG · Prompt · Modern AI Systems
-Published  : 1 International Research Paper
-Mindset    : Always learning, building, and improving 🌱
+Name          : Murasolimaran E
+Role          : AI Engineer & Full-Stack Developer
+Education     : B.Tech Information Technology
+Specialization: Generative AI · Machine Learning · Full-Stack Development
+Exploring     : LLMs · RAG · Prompt Engineering · AI Systems
+Projects      : 5+ AI & Full-Stack Projects
+Internships   : 3 Professional Internships
+Publications  : 📖 The Power of Artificial Intelligence (Tanglish Edition)
+Status        : Open to Work · Immediate Joiner
+Mindset       : Always learning, building, and improving 🌱
 ```
 
 ---
