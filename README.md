@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%E2%9C%A8;Building+AI-Powered+Applications+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Developer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%E2%9C%A8;Building+AI-Powered+Applications+%F0%9F%9A%80" />
 
 <br/>
 
