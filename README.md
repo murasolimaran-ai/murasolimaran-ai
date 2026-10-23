@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/murasoli-maran">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="[https://maran-portfolio-pi.vercel.app/](https://murasolimaran-ai.vercel.app/)">
+<a href="https://murasolimaran-ai.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="mailto:murasoli2846@gmail.com">
